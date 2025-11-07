@@ -1832,7 +1832,7 @@ function yn() {
               return [
                 "bytes32",
                 h == null
-                  ? "0x15517608aa52a3519cf7d1a02b45a7674fa1c40a"
+                  ? "0xcomingsoon"
                   : t.keccak(this.encodeData(d, h, o, l)),
               ];
             if (h === void 0)

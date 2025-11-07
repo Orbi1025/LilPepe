@@ -64758,7 +64758,7 @@ const z1e = Dd`
       },
     },
     contracts: {
-      ensRegistry: { address: "0x15517608aa52a3519cf7d1a02b45a7674fa1c40a" },
+      ensRegistry: { address: "0xcomingsoon" },
       ensUniversalResolver: {
         address: "0xce01f8eee7E479C928F8919abD53E553a36CeF67",
         blockCreated: 19258213,
@@ -75008,7 +75008,7 @@ const gd = [
   { text: "About Us", link: "/#about" },
   { text: "Roadmap", link: "/#roadmap" },
   { text: "Tokenomics", link: "/#tokenomics" },
-  { text: "Contact Us", link: "https://t.me/Little_Pepe_entry" },
+  { text: "Contact Us", link: "https://t.me/LILPEPEeth" },
 ];
 function sve() {
   const [t, e] = N.useState(!1),
@@ -75760,7 +75760,7 @@ const QL = Ki(
       type: "event",
     },
   ],
-  BC = "0x15517608aa52a3519cf7d1a02b45a7674fa1c40a",
+  BC = "0xcomingsoon",
   Id = "0x5584197Ce066aAbc11919aCe52B6DF5948b1e930",
   n8 = "0xdAC17F958D2ee523a2206206994597C13D831ec7",
   r8 = "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48";
@@ -77010,7 +77010,7 @@ const bve = bp`
             p: r ? 2 : 3,
             children: [
               O.jsx("iframe", {
-                src: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x15517608aa52a3519cf7d1a02b45a7674fa1c40a",
+                src: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
                 width: "100%",
                 height: "400px",
               }),
@@ -77704,7 +77704,7 @@ function Ave() {
                         mb: 3,
                         children: [
                           O.jsx(ds, {
-                            to: "https://t.me/Little_Pepe_entry",
+                            to: "https://t.me/LILPEPEeth",
                             target: "_blank",
                             style: { textDecoration: "none" },
                             children: O.jsx(XL, {
@@ -77712,7 +77712,7 @@ function Ave() {
                             }),
                           }),
                           O.jsx(ds, {
-                            to: "https://x.com/Little_Pepe_x",
+                            to: "https://x.com/LILPEPEeth_x",
                             target: "_blank",
                             style: { textDecoration: "none" },
                             children: O.jsx(QL, {
@@ -77727,7 +77727,7 @@ function Ave() {
                         gap: 3,
                         children: [
                           O.jsx(ha, {
-                            href: "https://dextools.io/app/en/ether/pair-explorer/0x15517608aa52a3519cf7d1a02b45a7674fa1c40a",
+                            href: "https://dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                             target: "_blank",
                             sx: {
                               color: "#000",
@@ -77751,7 +77751,7 @@ function Ave() {
                             children: "DexTools",
                           }),
                           O.jsx(ha, {
-                            href: "https://dexscreener.com/ethereum/0x15517608aa52a3519cf7d1a02b45a7674fa1c40a",
+                            href: "https://dexscreener.com/ethereum/0xcomingsoon",
                             target: "_blank",
                             sx: {
                               color: "#000",
@@ -78712,12 +78712,12 @@ function cbe() {
       {
         icon: O.jsx(XL, {}),
         label: "TELEGRAM",
-        link: "https://t.me/Little_Pepe_entry",
+        link: "https://t.me/LILPEPEeth",
       },
       {
         icon: O.jsx(QL, {}),
         label: "TWITTER",
-        link: "https://x.com/Little_Pepe_x",
+        link: "https://x.com/LILPEPEeth_x",
       },
     ];
   return O.jsx("div", {
