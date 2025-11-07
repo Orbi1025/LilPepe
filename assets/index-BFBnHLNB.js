@@ -64758,7 +64758,7 @@ const z1e = Dd`
       },
     },
     contracts: {
-      ensRegistry: { address: "0xcomingsoon" },
+      ensRegistry: { address: "0x909094c87771a6818a6448505c24eeb49f6ec2ff" },
       ensUniversalResolver: {
         address: "0xce01f8eee7E479C928F8919abD53E553a36CeF67",
         blockCreated: 19258213,
@@ -75760,7 +75760,7 @@ const QL = Ki(
       type: "event",
     },
   ],
-  BC = "0xcomingsoon",
+  BC = "0x909094c87771a6818a6448505c24eeb49f6ec2ff",
   Id = "0x5584197Ce066aAbc11919aCe52B6DF5948b1e930",
   n8 = "0xdAC17F958D2ee523a2206206994597C13D831ec7",
   r8 = "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48";
@@ -77010,7 +77010,7 @@ const bve = bp`
             p: r ? 2 : 3,
             children: [
               O.jsx("iframe", {
-                src: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+                src: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x909094c87771a6818a6448505c24eeb49f6ec2ff",
                 width: "100%",
                 height: "400px",
               }),
@@ -77727,7 +77727,7 @@ function Ave() {
                         gap: 3,
                         children: [
                           O.jsx(ha, {
-                            href: "https://dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                            href: "https://dextools.io/app/en/ether/pair-explorer/0x909094c87771a6818a6448505c24eeb49f6ec2ff",
                             target: "_blank",
                             sx: {
                               color: "#000",
@@ -77751,7 +77751,7 @@ function Ave() {
                             children: "DexTools",
                           }),
                           O.jsx(ha, {
-                            href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                            href: "https://dexscreener.com/ethereum/0x909094c87771a6818a6448505c24eeb49f6ec2ff",
                             target: "_blank",
                             sx: {
                               color: "#000",
